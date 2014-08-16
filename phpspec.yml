@@ -1,0 +1,7 @@
+---
+suites:
+  rocket_suite:
+    namespace: Rocket
+    psr4_prefix: Rocket
+
+formatter.name: pretty
